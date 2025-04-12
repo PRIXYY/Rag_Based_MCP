@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "eyelevel-rag": {
-      "command": "C:\\Users\\preet\\Desktop\\Rag based MCP\\env\\Scripts\\python.exe",
+      "command": "C:\\Users\\preet\\Desktop\\Rag_based_MCP\\env\\Scripts\\python.exe",
       "args": ["C:\\Users\\preet\\Desktop\\Rag_based_MCP\\server.py"],
       "transport": "stdio"
     }
