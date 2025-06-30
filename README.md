@@ -1,6 +1,6 @@
 # MCP Document QA Server
 
-This is an MCP (Modular Command Platform) server built to help you **ingest documents** and **ask questions** about them. Powered by the GroundX API, the server enables seamless document parsing and querying.
+This is an MCP (Model Context Protocol ) server built to help you **ingest documents** and **ask questions** about them. Powered by the GroundX API, the server enables seamless document parsing and querying.
 
 ## 🧠 Features
 
